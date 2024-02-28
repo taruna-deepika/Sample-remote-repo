@@ -1,1 +1,3 @@
 file B information
+
+added one more line
