@@ -1,3 +1,5 @@
 file B information
 
 added one more line
+B
+c
