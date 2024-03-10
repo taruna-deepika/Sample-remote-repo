@@ -1,2 +1,6 @@
 this is to test git commands
+<<<<<<< HEAD
 h
+=======
+hello
+>>>>>>> 9228874bf9161e2d63f7288745946b58921e215f
