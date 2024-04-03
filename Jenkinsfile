@@ -9,7 +9,7 @@ pipeline {
             }
         }
 
-        stage('First Stage') {
+        stage('Second Stage') {
             steps {
                 echo "this is my frist stage"
             }
